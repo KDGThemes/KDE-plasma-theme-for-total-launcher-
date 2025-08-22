@@ -3,12 +3,12 @@ KDE plasma 6 theme for total launcher adds  computer style to your phone with th
 
 HOW TO INSTALL?
 1. Download and install total launcher.
-2. Download the zip published on relas.es
+2. Download the zip published on relases
 3. Extract the zip.
 You will see in the zip:
 backup.zip
 icon pack.apk
-wallpeper.png
+wallpaper.png
 4. Install the icon pack.
 5. Open total launcher and if you need read the tips, after, long press on the screen and click menu.
 6. On the menu, click backup center.
@@ -17,8 +17,8 @@ wallpeper.png
 9. Go to downloads and browse for KDE. plasma theme for total launcher folder and open it, after, click the backup.zip
 10. You will be returned to backup center.
 11. In backup center click Backup and click ok.
-12.You will see the clock, date, weather, 2 rows of apps and a taskbar.
-13.Click + to add apps
+12. You will see the clock, date, weather, 2 rows of apps and a taskbar.
+13. Click + to add apps
 To see all apps click the plasma icon.
 14. Set the wallpaper (Optional).
   
